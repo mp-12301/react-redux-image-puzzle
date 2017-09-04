@@ -15,3 +15,4 @@ npm start                   # start server
 npm run start:dashboard     # start server using webpack-dashboard
 npm test                    # starts tests
 ```
+After starting the server, you can start the game at http://localhost:8080 (by default).
