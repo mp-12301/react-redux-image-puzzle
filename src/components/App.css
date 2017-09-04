@@ -1,0 +1,52 @@
+:local(.button) {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+:local(.game) {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
+
+:local(.input) {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+:local(.leaderboard) {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+:local(.score) {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+:local(.tileset) {
+  width: 310px;
+  height: 310px;
+  margin: auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+:local(.tile) {
+  flex: 0 1 32%;
+  -khtml-user-drag: element;
+  width: 100px;
+  height: 100px;
+  padding: 1px;
+  z-index: 100;
+}
+
+:local(.title) {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
