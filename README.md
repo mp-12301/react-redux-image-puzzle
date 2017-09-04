@@ -3,8 +3,8 @@
 ## Installation
 
 ```
-git clone --depth 1  project
-cd project
+git clone --depth 1 https://github.com/mpereira96/react-redux-image-puzzle.git [project_name]
+cd [project_name]
 npm install or yarn install
 ```
 
